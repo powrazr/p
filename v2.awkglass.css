@@ -27,8 +27,8 @@
     --custom-spoiler-color: rgb(148, 83, 212);
     --box-shadow: 0 0 10px 0px black;
 
-    --custom-logo: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordia.png');
-    --custom-logo-hover: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordiaHover.png');
+    --custom-logo: url('https://cdn.discordapp.com/emojis/1314712160735199272.webp?size=96&animated=true'); /* custom logo */
+    --custom-logo-hover: url('https://cdn.discordapp.com/emojis/1314712160735199272.webp?size=96&animated=true'); /* custom logo (hover) */
 
     /*other*/
     --highlight: rgb(var(--rgb-highlight));
